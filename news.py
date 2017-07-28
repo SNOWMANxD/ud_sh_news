@@ -142,7 +142,7 @@ def main():
                     host='localhost'
                     dbname='news'
                     user='postgres'
-                    password='pwasd123test'
+                    password='password'
                     """
 
     """ get a connection, if a connect cannot be made,
